@@ -16,3 +16,4 @@ sleep 3
 
 sudo apt install plasma-desktop firefox xorg xserver-xorg-core xserver-xorg-video-xf86-video-modesetting xinit xterm 
 
+echo "ive think we gotten everything?"
